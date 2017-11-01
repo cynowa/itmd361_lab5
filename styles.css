@@ -1,0 +1,14 @@
+body {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: black;
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+table {
+  color: black;
+  font-family: 'Roboto Slab', serif;
+}
