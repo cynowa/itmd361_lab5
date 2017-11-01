@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: gray;
   margin: 0;
   padding: 0;
 }
@@ -7,8 +7,44 @@ h1 {
   color: black;
   font-family: 'Roboto Slab', serif;
   text-align: center;
+  margin: 30px 0 30px 0;
+  padding: 20px 0 0 0;
 }
 table {
   color: black;
   font-family: 'Roboto Slab', serif;
+  background-color: silver;
+}
+#wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
+.parameters {
+  float: left;
+  width: 260px;
+  margin: 10px 10px;
+}
+.planet1 {
+  float: left;
+  width: 150px;
+  margin: 10px 5px;
+  text-align: center;
+}
+.planet2 {
+  float: left;
+  width: 150px;
+  margin: 10px 5px;
+  text-align: center;
+}
+.planet3 {
+  float: left;
+  width: 150px;
+  margin: 10px 5px;
+  text-align: center;
+}
+.planet4 {
+  float: left;
+  width: 150px;
+  margin: 10px 5px;
+  text-align: center;
 }
